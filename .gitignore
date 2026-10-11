@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local data created by the task tracker
+task_tracker/tasks.json
+task_tracker/tasks.invalid.json
